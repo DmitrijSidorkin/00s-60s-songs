@@ -9,7 +9,7 @@ const StartScreen = () => {
   return (
     <div id="start-screen">
       <h1>
-        Potentially objectively correct top150 list of 70&apos;s hits, if the
+        Potentially objectively correct top150 list of 00&apos;s - 60&apos;s hits, if the
         rankings weren&apos;t ruined by 2 ebuls
       </h1>
       <img className="start-img" src="image.jpg" />

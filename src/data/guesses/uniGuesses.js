@@ -41,5 +41,5 @@
 
 
 
-const uniGuesses = ["Bohemian Rhapsody", "Hotel California", "American Pie", "Take Me Home, Country Roads", "Hold The Line"];
+const uniGuesses = ["Help!", "Born To Be Wild", "Ring of Fire", "(I Can't Get No) Satisfaction", "San Francisco"];
 export default uniGuesses;
