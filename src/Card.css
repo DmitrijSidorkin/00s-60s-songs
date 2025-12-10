@@ -1,0 +1,14 @@
+.card {
+  background-color: rgb(27, 27, 27);
+  border: 8px solid rgb(204, 191, 149);
+  padding: 20px 50px 30px;
+  color: rgb(204, 191, 149);
+  position: relative;
+  width: 1200px;
+}
+.buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 60px;
+}
